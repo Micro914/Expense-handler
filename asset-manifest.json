@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-complete-guide/static/css/main.5e99b093.chunk.css",
-    "main.js": "/react-complete-guide/static/js/main.f18deec9.chunk.js",
-    "main.js.map": "/react-complete-guide/static/js/main.f18deec9.chunk.js.map",
-    "runtime-main.js": "/react-complete-guide/static/js/runtime-main.5651e201.js",
-    "runtime-main.js.map": "/react-complete-guide/static/js/runtime-main.5651e201.js.map",
-    "static/js/2.3fc23885.chunk.js": "/react-complete-guide/static/js/2.3fc23885.chunk.js",
-    "static/js/2.3fc23885.chunk.js.map": "/react-complete-guide/static/js/2.3fc23885.chunk.js.map",
-    "index.html": "/react-complete-guide/index.html",
-    "static/css/main.5e99b093.chunk.css.map": "/react-complete-guide/static/css/main.5e99b093.chunk.css.map",
-    "static/js/2.3fc23885.chunk.js.LICENSE.txt": "/react-complete-guide/static/js/2.3fc23885.chunk.js.LICENSE.txt"
+    "main.css": "/Expense-handler/static/css/main.5e99b093.chunk.css",
+    "main.js": "/Expense-handler/static/js/main.f18deec9.chunk.js",
+    "main.js.map": "/Expense-handler/static/js/main.f18deec9.chunk.js.map",
+    "runtime-main.js": "/Expense-handler/static/js/runtime-main.0447151d.js",
+    "runtime-main.js.map": "/Expense-handler/static/js/runtime-main.0447151d.js.map",
+    "static/js/2.3fc23885.chunk.js": "/Expense-handler/static/js/2.3fc23885.chunk.js",
+    "static/js/2.3fc23885.chunk.js.map": "/Expense-handler/static/js/2.3fc23885.chunk.js.map",
+    "index.html": "/Expense-handler/index.html",
+    "static/css/main.5e99b093.chunk.css.map": "/Expense-handler/static/css/main.5e99b093.chunk.css.map",
+    "static/js/2.3fc23885.chunk.js.LICENSE.txt": "/Expense-handler/static/js/2.3fc23885.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5651e201.js",
+    "static/js/runtime-main.0447151d.js",
     "static/js/2.3fc23885.chunk.js",
     "static/css/main.5e99b093.chunk.css",
     "static/js/main.f18deec9.chunk.js"
